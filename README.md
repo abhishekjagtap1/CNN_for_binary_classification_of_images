@@ -1,2 +1,2 @@
 # cnn_model_classifier 
-A simple CNN network for binary classification of images, training and evaluating process discussed in the file attached.
+A simple CNN network for binary classification of images, training and evaluating process discussed in the file attached, created on google colab.
